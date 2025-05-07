@@ -32,3 +32,5 @@ A modern, professional, single-page marketing site for a fictional software resa
 - Update company info, sections, and styles in the `src/components` directory.
 - The AI chat widget is a demo; The Backend for everything has been created using express however due to lack of credits it wont work
 
+
+It Took 5hrs 30 minutes to build 
