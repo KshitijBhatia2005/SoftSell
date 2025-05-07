@@ -109,25 +109,6 @@ const ContactForm = () => {
     },
   ];
 
-  const formVariants = {
-    hidden: { opacity: 0, y: 20 },
-    visible: {
-      opacity: 1,
-      y: 0,
-      transition: {
-        duration: 0.6,
-        ease: "easeOut",
-      },
-    },
-  };
-
-  const inputVariants = {
-    focus: {
-      scale: 1.02,
-      transition: { duration: 0.2 },
-    },
-  };
-
   return (
     <section id="contact" className="section-padding bg-white dark:bg-gray-800">
       <div className="container-custom">

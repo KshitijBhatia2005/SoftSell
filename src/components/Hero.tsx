@@ -93,7 +93,7 @@ const Hero = () => {
 
                   {/* Features list */}
                   <div className="space-y-3">
-                    {['24/7 Support', 'Instant Delivery', 'Secure Payment', 'Money-back Guarantee'].map((feature, index) => (
+                    {['24/7 Support', 'Instant Delivery', 'Secure Payment', 'Money-back Guarantee'].map((feature) => (
                       <div key={feature} className="flex items-center space-x-3">
                         <div className="w-6 h-6 rounded-full bg-primary-100 dark:bg-primary-900/50 flex items-center justify-center">
                           <div className="w-2 h-2 rounded-full bg-primary-600 dark:bg-primary-400" />

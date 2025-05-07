@@ -19,27 +19,6 @@ A modern, responsive single-page marketing website for a fictional software resa
 - Node.js (v18+ recommended)
 - npm
 
-### Installation
-1. Clone the repo:
-   ```sh
-   git clone https://github.com/YOUR_USERNAME/softsell.git
-   cd softsell
-   ```
-2. Install dependencies:
-   ```sh
-   npm install
-   ```
-
-### Development
-Start the local dev server:
-```sh
-npm run dev
-```
-
-### Build for Production
-```sh
-npm run build
-```
 
 
 ## AI Chat Widget

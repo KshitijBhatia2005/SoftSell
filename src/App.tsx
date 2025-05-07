@@ -1,12 +1,10 @@
 import { useEffect } from 'react'
-import { motion } from 'framer-motion'
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import HowItWorks from './components/HowItWorks'
 import WhyChooseUs from './components/WhyChooseUs'
 import Testimonials from './components/Testimonials'
 import ContactForm from './components/ContactForm'
-import { SunIcon, MoonIcon } from '@heroicons/react/24/outline'
 import AIDemoChatWidget from './components/AIDemoChatWidget'
 import './App.css'
 
